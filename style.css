@@ -3,7 +3,7 @@ body
     margin: 0;
     padding: 20px;
     font-family: "sans-serif","cursive";
-    background-color: none;
+    background-color: ghostwhite;
 }
 .container{
   background-color: blueviolet;  
